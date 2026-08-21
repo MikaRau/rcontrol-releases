@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "version": "0.1.0+2",
+  "url": "https://github.com/MikaRau/rcontrol-releases/releases/download/v0.1.0.2/rcontrol-0.1.0.2.signed.bin",
+  "size": 246067,
+  "notes": "First over-the-air release. Development key: this build runs only on a bench controller."
+}
